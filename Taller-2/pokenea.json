@@ -1,0 +1,83 @@
+[
+    {
+        "Id": "La electricidad es vida.",
+        "Nombre": "Pikachu",
+        "Altura": 0.4,
+        "Habilidad": "Electricidad estática",
+        "Imagen": "https://storage.googleapis.com/pkeneas/_69d21147-a508-4789-9a0d-43a7de44d238.jpeg",
+        "frase": "La electricidad es vida."
+    },
+    {
+        "Id": "La naturaleza es sabia.",
+        "Nombre": "Bulbasaur",
+        "Altura": 0.7,
+        "Habilidad": "Espesura",
+        "Imagen": "https://storage.googleapis.com/pkeneas/_f394f18e-a5f2-4f4a-877d-4e7dda1ceeb9.jpeg",
+        "frase": "La naturaleza es sabia."
+    },
+    {
+        "Id": "El fuego purifica el alma.",
+        "Nombre": "Charmander",
+        "Altura": 0.6,
+        "Habilidad": "Mar llamas",
+        "Imagen": "https://storage.googleapis.com/pkeneas/_78767db7-f38b-4256-9d5f-b7782144b350.jpeg",
+        "frase": "El fuego purifica el alma."
+    },
+    {
+        "Id": "El agua fluye como la vida misma.",
+        "Nombre": "Squirtle",
+        "Altura": 0.5,
+        "Habilidad": "Torrente",
+        "Imagen": "https://storage.googleapis.com/pkeneas/_70048756-999e-4cf8-9a79-d4cf32afc6e2.jpeg",
+        "frase": "El agua fluye como la vida misma."
+    },
+    {
+        "Id": "La música llena el corazón de alegría.",
+        "Nombre": "Jigglypuff",
+        "Altura": 0.5,
+        "Habilidad": "Voz encantadora",
+        "Imagen": "https://storage.googleapis.com/pkeneas/_6ea69818-18e6-4bb3-b3fa-49f1a849748a.jpeg",
+        "frase": "La música llena el corazón de alegría."
+    },
+    {
+        "Id": "La fuerza viene del interior.",
+        "Nombre": "Machop",
+        "Altura": 0.8,
+        "Habilidad": "Guts",
+        "Imagen": "https://storage.googleapis.com/pkeneas/_816b12ca-bd1b-4b48-93ba-048759f9035b.jpeg",
+        "frase": "La fuerza viene del interior."
+    },
+    {
+        "Id": "El tesoro está donde menos lo esperas.",
+        "Nombre": "Meowth",
+        "Altura": 0.4,
+        "Habilidad": "Garras afiladas",
+        "Imagen": "https://storage.googleapis.com/pkeneas/_4a5fa435-27e7-47c0-a1f5-9042279371e3.jpeg",
+        "frase": "El tesoro está donde menos lo esperas."
+    },
+    {
+        "Id": "La resistencia es un tesoro.",
+        "Nombre": "Geodude",
+        "Altura": 0.4,
+        "Habilidad": "Roca sólida",
+        "Imagen": "https://storage.googleapis.com/pkeneas/_a17158a3-25e4-4bca-8e75-45e8345fe9a6.jpeg",
+        "frase": "La resistencia es un tesoro."
+    },
+    {
+        "Id": "La vista nos conecta con el mundo.",
+        "Nombre": "Pidgey",
+        "Altura": 0.3,
+        "Habilidad": "Vista lince",
+        "Imagen": "https://storage.googleapis.com/pkeneas/_1193bb14-53cd-4122-8b98-5ef957dc305f.jpeg",
+        "frase": "La vista nos conecta con el mundo."
+    },
+    {
+        "Id": "La adaptabilidad es la clave de la evolución.",
+        "Nombre": "Eevee",
+        "Altura": 0.3,
+        "Habilidad": "Adaptabilidad",
+        "Imagen": "https://storage.googleapis.com/pkeneas/_4a5fa435-27e7-47c0-a1f5-9042279371e3.jpeg",
+        "frase": "La adaptabilidad es la clave de la evolución."
+    }
+]
+
